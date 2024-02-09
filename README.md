@@ -2,10 +2,9 @@
 
 Hi, my name is Joanne.👋
 
-I am excited about embarking on a career as a data analyst
-My taste for data and analytics began during my employment within the healthcare service. I have over 10 years’ experience working in data management producing accurate and reliable audits and reports, presenting data insights and influencing strategies and decisions in improving programmes performance.
+I am excited about embarking on a career as a data analyst. My interest in data and analytics originated during my tenure in the healthcare service. With over 10 years of experience in data management, I have consistently produced accurate and reliable audits and reports. I have also been instrumental in presenting data insights and influencing strategies to improve program performance.
 
-Enrolling onto a level 3 data skills bootcamp kick started this exciting journey into becoming a data analyst. This experience has enabled me to thrive, broaden my skills and knowledge within the data world and exercise my problem-solving skills and allow my creative nature to flourish.
+Enrolling in a Level 3 data skills bootcamp kickstarted this exciting journey toward becoming a data analyst. This experience has not only allowed me to thrive but has also broadened my skills and knowledge within the data world. It has provided me with opportunities to exercise my problem-solving skills and allowed my creative nature to flourish.
 
 
 ## Projects
