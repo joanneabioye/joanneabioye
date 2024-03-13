@@ -16,7 +16,7 @@ Welcome to my portfolio, where I showcase my projects.
 
 2.[Sourcing Data](https://github.com/joanneabioye/Sourcing-Data)
 
-3. [Data Analysis]
+3. [Data Analysis](https://github.com/joanneabioye/Data-Analysis/blob/main/README.md)
 
 4. [Data Formatting and Visualisation](https://github.com/joanneabioye/Data-Formatting-and-Visualisation)
 
