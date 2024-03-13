@@ -10,7 +10,20 @@ Feel free to connect with me on LinkedIn.
 
 ## Portfolio
 
-Welcome to my portfolio, where I showcase my [projects]().
+Welcome to my portfolio, where I showcase my projects.
+
+1. [Value of Data](https://github.com/joanneabioye/Value-of-Data)
+
+2.[Sourcing Data](https://github.com/joanneabioye/Sourcing-Data)
+
+3. [Analysing Data]
+
+4. [Data Formatting and Visualisation](https://github.com/joanneabioye/Data-Formatting-and-Visualisation)
+
+5. [Power BI]
+
+6. [Storytelling]
+
 
 <!---
 joanneabioye/joanneabioye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub [profile](
