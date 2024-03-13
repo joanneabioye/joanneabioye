@@ -8,9 +8,9 @@ Enrolling in a Level 3 data skills bootcamp kickstarted this exciting journey to
 
 <!--Feel free to connect with me on [LinkedIn](www.linkedin.com/in/joanne-a-276b622a4)-->
 
-## Projects
+## Portfolio
 
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my [projects]().
 
 <!---
 joanneabioye/joanneabioye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub [profile](
