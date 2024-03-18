@@ -10,7 +10,7 @@ Feel free to connect with me on LinkedIn.
 
 ## Portfolio
 
-Welcome to my portfolio, where I showcase my projects.
+Explore my portfolio, a collection highlighting my projects.
 
 1.[Value of Data](https://github.com/joanneabioye/Value-of-Data)
 
