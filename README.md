@@ -6,8 +6,6 @@ I am excited about embarking on a career as a data analyst. My interest in data 
 
 Enrolling in a Level 3 data skills bootcamp kickstarted this exciting journey toward becoming a data analyst. This experience has not only allowed me to thrive but has also broadened my skills and knowledge within the data world. It has provided me with opportunities to exercise my problem-solving skills and allowed my creative nature to flourish.
 
-Feel free to connect with me on LinkedIn.
-
 ## Portfolio
 
 Explore my portfolio, a collection highlighting my projects.
