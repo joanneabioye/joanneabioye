@@ -20,7 +20,7 @@ Welcome to my portfolio, where I showcase my projects.
 
 4.[Data Formatting and Visualisation](https://github.com/joanneabioye/Data-Formatting-and-Visualisation)
 
-5.[Dashboarding in Power BI]
+5.[Dashboarding in Power BI](https://github.com/joanneabioye/Dashboarding-in-Power-BI/blob/main/README.md)
 
 6.[Storytelling]
 
