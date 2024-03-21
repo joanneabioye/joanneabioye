@@ -20,7 +20,7 @@ Explore my portfolio, a collection highlighting my projects.
 
 5.[Dashboarding in Power BI](https://github.com/joanneabioye/Dashboarding-in-Power-BI/blob/main/README.md)
 
-6.[Storytelling]
+6.[Storytelling](https://github.com/joanneabioye/Storytelling/edit/main/README.md)
 
 
 <!---
