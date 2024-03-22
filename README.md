@@ -10,17 +10,17 @@ Enrolling in a Level 3 data skills bootcamp kickstarted this exciting journey to
 
 Explore my portfolio, a collection highlighting my projects.
 
-1.[Value of Data](https://github.com/joanneabioye/Value-of-Data)
+1. [Value of Data](https://github.com/joanneabioye/Value-of-Data)
 
-2.[Sourcing Data](https://github.com/joanneabioye/Sourcing-Data)
+2. [Sourcing Data](https://github.com/joanneabioye/Sourcing-Data)
 
-3.[Data Analysis](https://github.com/joanneabioye/Data-Analysis/blob/main/README.md)
+3. [Data Analysis](https://github.com/joanneabioye/Data-Analysis/blob/main/README.md)
 
-4.[Data Formatting and Visualisation](https://github.com/joanneabioye/Data-Formatting-and-Visualisation)
+4. [Data Formatting and Visualisation](https://github.com/joanneabioye/Data-Formatting-and-Visualisation)
 
-5.[Dashboarding in Power BI](https://github.com/joanneabioye/Dashboarding-in-Power-BI/blob/main/README.md)
+5. [Dashboarding in Power BI](https://github.com/joanneabioye/Dashboarding-in-Power-BI/blob/main/README.md)
 
-6.[Storytelling](https://github.com/joanneabioye/Storytelling/blob/main/README.md)
+6. [Storytelling](https://github.com/joanneabioye/Storytelling/blob/main/README.md)
 
 
 <!---
